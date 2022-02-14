@@ -2,6 +2,8 @@
 
 Simülasyon Modellerinin Tasarımı Dersi (Yüksek Lisans) kapsamında yapmış olduğum ödevim.
 
+Her bir işlemi adım adım anlatıyormuş gibi anlaşılır şekilde kodladım. 
+
 SİMÜLAYON NEDİR?
 
 Simülasyon; sistemin davranışını anlamak veya sistemin işlemesi için göz önüne alınan değişik stratejileri değerlendirmek amacına yönelik olarak, gerçek sistem modelinin tasarımlanması ve bu model ile deneylerin yürütülmesi süreci olarak tanımlanabilir.
