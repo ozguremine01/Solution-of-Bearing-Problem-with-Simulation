@@ -1,4 +1,4 @@
-# Solving-of-Rulman-Simulation-Problem
+# Solution-of-Bearing-Problem-with-Simulation
 
 Simülasyon Modellerinin Tasarımı Dersi (Yüksek Lisans) kapsamında yapmış olduğum ödevim.
 
