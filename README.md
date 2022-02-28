@@ -35,47 +35,13 @@ Güçlü ve güvenilir olmalı, model hatalı sonuçlar vermemelidir.
 Kolayca dönüştürülebilir ve kontrol edilebilir olmalıdır.
 Kolayca değişikliklere uyarlanabilmeli, kontrol edilebilmeli ve güncelleştirilebilmelidir.
 
-Tek Kanal Kuyruk Problemi
-
-Küçük bir marketin sadece bir ödeme sayacı vardır. Müşteriler bu kasaya 1 ila 8 dakika arayla rastgele gelirler. Gelişler arası zamanın her olası değeri aynı oluşma olasılığına sahiptir. Servis süreleri tablo1'de gösterilen olasılıklarla 1 ila 6 dakika arasında değişir. Sorun 6 müşterinin gelişini ve hizmetini simüle ederek sistemleri analiz etmektir.
-
-![image](https://user-images.githubusercontent.com/94612715/146968386-78cc9a4a-84b6-4ccb-a046-e958165af0a1.png)
-
-
-![image](https://user-images.githubusercontent.com/94612715/146968460-f3b4d2c7-093e-461e-bede-b9a6bafaed7f.png)
-
-
-Varış Dağılımı
-
-![image](https://user-images.githubusercontent.com/94612715/146968541-7df99503-6cc7-4d27-b952-75bb780ced7c.png)
-
-
-Servis Dağılımı
-
-![image](https://user-images.githubusercontent.com/94612715/146968601-b3887a24-15ca-456a-8eaa-64a6dd4ca7e8.png)
-
-
-![image](https://user-images.githubusercontent.com/94612715/146968637-3571ed60-2b05-4d9e-91bd-f4468cbc4249.png)     
-![image](https://user-images.githubusercontent.com/94612715/146968657-650cbbca-ad81-4eda-90d9-26081ccb04e8.png)
-
-![image](https://user-images.githubusercontent.com/94612715/146968688-4948e4cb-8a18-4876-a07d-ee1bb360e20c.png)
-
-![image](https://user-images.githubusercontent.com/94612715/146968710-ab0bae25-b86f-49d0-b70b-770e6f13c723.png)
-
-![image](https://user-images.githubusercontent.com/94612715/146968733-f0bb1a87-54e1-4846-8412-c4f2714ea433.png)
-
-
-![image](https://user-images.githubusercontent.com/94612715/146968842-a5b2620e-b1b6-4219-baa9-36a03a6dbadd.png)
-
-![image](https://user-images.githubusercontent.com/94612715/146968873-c83a5b92-b3f1-46cd-9aeb-aca00a301098.png)
-
-![image](https://user-images.githubusercontent.com/94612715/146968900-2e8abb58-51b9-4011-8d62-d82e1a3db450.png)
-
-![image](https://user-images.githubusercontent.com/94612715/146968927-c7444e61-0783-4917-b573-df0b56e29e0a.png)
-
 
 Rulman Problemi
-![image](https://user-images.githubusercontent.com/94612715/146969036-4905501f-b1e9-446d-8f9b-7f5d5e7c740a.png)
+
+Bir freze makinesi, hizmette başarısız olan üç farklı rulmana sahiptir. Bir rulman arızalandığında değirmen durur, bir tamirci çağrılır ve yeni bir rulman monte edilir. Tamircinin freze makinesine varışının gecikme süresi, Tablo 2.2'de verilen dağılıma sahip rastgele bir değişkendir. Sistem için kesinti süresi dakikada 10 dolar kayıp olarak tahmin ediliyor. Tamircinin doğrudan yerinde maliyeti saatte 30 $ ' dır. Bir rulman değiştirmek 20 dakika, iki rulmanı değiştirmek için 30 dakika ve üç rulmanı değiştirmekse 40 dakika sürer. Rulman arızalandığında üç rulmanın da değiştirilmesi önerildi. Yönetimin teklifin değerlendirilmesine ihtiyacı var. Toplam maliyet 10,000 rulman - saat performans ölçüsü olarak kullanılacaktır. Bir rulman 32$'dır.
+
+Not: Birden fazla rulmanın aynı anda başarısız olduğu durumlar vardır.
+
 
 ![image](https://user-images.githubusercontent.com/94612715/146969067-b0548a0d-8830-488a-8aa1-527f1168d0d7.png)
 
